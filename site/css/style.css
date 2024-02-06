@@ -91,7 +91,7 @@ table {
    /*  height: 550px;       Just for the demo          */
     overflow-y: auto;    /* Trigger vertical scroll    */
     overflow-x: hidden;  /* Hide the horizontal scroll */
-    display: block;
+    /*display: block;*/
 }
 
 caption { 
